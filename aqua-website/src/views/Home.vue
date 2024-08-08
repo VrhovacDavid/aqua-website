@@ -33,8 +33,10 @@
             </div>
      
             <!-- Long container on the right -->
+            <!-- Long container on the right -->
 
-            
+
+
             <div class="relative w-1/6 p-4 flex flex-col rounded-xl shadow-xl overflow-hidden">
                 <div class="absolute inset-0 bg-white opacity-35"></div>
                 <div class="relative z-10 flex flex-col h-full">
