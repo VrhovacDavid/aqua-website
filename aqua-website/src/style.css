@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'YourCustomFont';
+    src: url('/src/assets/BAHNSCHRIFT.TTF') format('TTF');
+    font-weight: normal;
+    font-style: normal;
+  }
