@@ -33,7 +33,7 @@
             </div>
      
             <!-- Long container on the right -->
-            <!-- Long container on the right -->
+
 
 
 
@@ -52,6 +52,7 @@
                 </div>
             </div>
         </div>
+  
 
         <PopupForm :isOpen="isPopupOpen" @close="closePopup" :initialService="selectedService" :services="services" />
     </div>
