@@ -1,7 +1,7 @@
 <!-- Home.vue -->
 <template>
     <div class="relative w-full h-screen bg-cover bg-center"
-        style="background-image: url('/src/assets/background.jpg');">
+        style="background-image: url('/background.jpg');">
 
         <div class="absolute inset-0 flex gap-x-8 m-2">
             <p class="text-xl font-medium text-center text-black mb-80">
@@ -44,10 +44,10 @@
                         <p class="text-center font-bold text-xl font-custom">Unsere geschätzten Kundinnen und Kunden</p>
                     </div>
                     <div class="flex-grow flex flex-col justify-center items-center space-y-16">
-                        <img src="/src/assets/stgallen.png" alt="St. Gallen" class="w-48 h-16 object-contain">
-                        <img src="/src/assets/bauer.png" alt="Bauer" class="w-48 h-16 object-contain">
-                        <img src="/src/assets/manor.png" alt="Manor" class="w-48 h-16 object-contain">
-                        <img src="/src/assets/hev.png" alt="HEV" class="w-48 h-16 object-contain">
+                        <img src="/stgallen.png" alt="St. Gallen" class="w-48 h-16 object-contain">
+                        <img src="/bauer.png" alt="Bauer" class="w-48 h-16 object-contain">
+                        <img src="/manor.png" alt="Manor" class="w-48 h-16 object-contain">
+                        <img src="/hev.png" alt="HEV" class="w-48 h-16 object-contain">
                     </div>
                 </div>
             </div>
