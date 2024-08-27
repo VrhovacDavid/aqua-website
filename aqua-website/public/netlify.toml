@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+  
+# Add this section for caching
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
